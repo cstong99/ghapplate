@@ -18,6 +18,10 @@ Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
 
 Go to https://github.com/webapplate/ghapplate, click 'fork' button to fork the template to your repository.
 
+## How to seee ghapplate
+
+Go to https://cstong99.github.io/ghapplate, that's all :-)
+
 ## Features
 
 Learn more from [webapplate document](https://github.com/webapplate/webapplate/wiki).
